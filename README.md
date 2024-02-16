@@ -1,3 +1,3 @@
 # Description
 
-Testing out different redering/build methods NextJS offers.
+Testing out different rendering/build methods NextJS offers.
